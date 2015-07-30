@@ -25,4 +25,5 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.4.0'
     compile 'com.github.nirhart:parallaxscroll:1.0'
     compile 'io.realm:realm-android:0.82.0'
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
 }
