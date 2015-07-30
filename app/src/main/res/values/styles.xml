@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:itemBackground">@drawable/app_background</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
